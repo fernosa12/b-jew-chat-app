@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532657393843",
+    "project_id": "chatapps-b8374",
+    "storage_bucket": "chatapps-b8374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532657393843:android:7ddb36bf43abe267b020c6",
+        "android_client_info": {
+          "package_name": "com.fernosha.simplechatapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WTdVb_Z3N8RkWMk9yz30L7FdoEr60wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
